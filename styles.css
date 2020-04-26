@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    margin: 0%;
+    font-family: Helvetica;
+    font-size: 12px;
+}
+
+.post{
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    margin-top: 50px;
+}
+.header{
+    margin-top: 10px;
+}
+
+.circulo {
+     width: 7px;
+     height: 7px;
+     border-radius: 50%;
+     border-radius: 50%;
+     border-radius: 50%;
+     background: black;
+     margin-top: 2px;
+}
+
+.titulo{
+    display:flex;
+}
+
+
+.imagen{
+    width: 100%;
+    overflow: hidden;
+    height: 300px;
+}
+
+.iconos{
+    margin-top: 10px;
+
+}
+
+.texto{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
